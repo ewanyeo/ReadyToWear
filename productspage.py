@@ -55,8 +55,8 @@ def main():
             <h1 style='font-family:Optima;color: #8B4513; text-align: center;'>Jorge & Jeff</h1>
             <p style='font-family: Optima;color: #8B4513; text-align: center; font-size: 20px;'> 
             <a style='color: #8B4513; text-decoration: none;' href='https://charlotteg1224-scenarioweek-homepage-zb4jfq.streamlit.app/'target='_blank'>Home</a> | 
-            <a style='color: #8B4513; text-decoration: none;' href=''target='_blank'>Search</a> | 
-            <a style='color: #8B4513; text-decoration: none;' href=''target='_blank'>Ready To Wear</a> | 
+            <a style='color: #8B4513; text-decoration: none;' href='https://ewanyeo-search-searchpage-ga2mq2.streamlit.app/'target='_blank'>Search</a> | 
+            <a style='color: #8B4513; text-decoration: none;' href='https://ewanyeo-readytowear-productspage-14irvc.streamlit.app/'target='_blank'>Ready To Wear</a> | 
             <a style='color: #8B4513; text-decoration: none;' href='https://rajatk21-sw-doggy-pe2mzu.streamlit.app/' target='_blank'>Team</a> |
             <a style='color: #8B4513; text-decoration: none;' href='https://georginapalmer-contactus-streamlitcontactus-49oqai.streamlit.app/'target='_blank'>Contact</a> 
             </p>
